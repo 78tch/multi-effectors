@@ -6,7 +6,7 @@ About hot to use multi-effectors for guitar.
 
 |ポイント|内容|Zoom G1X four|Valeton GP-100|NUX MG-300|
 |:--|:--|:--|:--|:--|
-|ルーパー|Pre/Post　掛け録り・生音録り|OK|OK|OK|
+|ルーパー|Pre/Post　生音録り/掛け録り|OK|OK|OK|
 |ルーパー|録音時間四分音符数指定|OK|-|-|
 |ルーパー|カウントイン|OK|-|-|
 |PC|設定ソフト|OK|OK|OK|
